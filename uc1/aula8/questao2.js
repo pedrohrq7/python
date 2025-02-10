@@ -3,6 +3,7 @@ let linhas = 3
 let colunas = 3
 let soma = 0
 let media = 0
+
 for (let i = 0; i < 3 ; i++) {
     matriz [i] = []
     for(let j = 0; j < colunas; j++) {
